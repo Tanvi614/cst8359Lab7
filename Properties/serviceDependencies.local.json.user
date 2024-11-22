@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-11-22T09:27:30.9850996Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-11-22T09:27:15.0603665Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "bee9b1a3-1a96-48fc-a39b-79f0b013cc97"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "tanvilab6"
+    }
+  }
+}
